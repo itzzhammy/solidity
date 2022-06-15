@@ -1,0 +1,4 @@
+API_URL_KEY=URL from Alchemy
+PRIVATE_KEY=Private Key
+API_KEY=Form Alchemy
+CONTRACT=Contract
